@@ -202,8 +202,7 @@ next.addEventListener('click',(event)=>{
 });
 
 let playlist = {
-        // 'List-1':[],
-        // 'Playlist-2':[]
+        
     };
 
 let playlistName = document.querySelector('.create input');
@@ -293,4 +292,3 @@ function renderPlaylistSongs(){
 }
 
 renderPlaylistSongs();
-
