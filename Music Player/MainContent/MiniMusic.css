@@ -22,7 +22,7 @@ header {
   font-size: 2rem;
   margin: 0.5rem 0;
   background-color: var(--light);
-  /* border: var(--br-r); */
+  
 }
 
 #head-txt {
@@ -41,7 +41,7 @@ header .empty {
   font-size: 20px;
   text-align: end;
 
-  /* border: var(--br-r); */
+  
 }
 
 #theme:checked ~ header {
@@ -58,7 +58,7 @@ header .empty {
   border-radius: 15px;
   margin-right: 0;
   transition: all 0.2s linear;
-  /* border: var(--br-b); */
+  
 }
 
 .slider {
@@ -94,7 +94,7 @@ main > div {
   background-color: aqua;
   border-radius: 1rem;
   box-shadow: -2px -2px 2px 2px gray;
-  /* border: var(--br-r); */
+  
 }
 
 #theme:checked ~ main > div {
@@ -113,7 +113,7 @@ main > div {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  /* border: var(--br-r); */
+  
 }
 
 #all-songs select {
@@ -134,7 +134,7 @@ main > div {
   font-size: 1rem;
   text-align: center;
   align-content: center;
-  /* border: var(--br-r) ; */
+  
 }
 
 .song:hover {
@@ -204,7 +204,7 @@ main > div {
   font-size: 1rem;
   color: white;
   background-color: blueviolet;
-  /* text-align: center; */
+  
 }
 
 #playlistSection > div {
@@ -212,7 +212,7 @@ main > div {
   display: flex;
   justify-content: center;
   margin: 1rem;
-  /* border: var(--br-r); */
+  
 }
 
 .create {
